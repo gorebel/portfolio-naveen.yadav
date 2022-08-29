@@ -1,0 +1,1 @@
+Designed using simple html and w3 schools css classes
